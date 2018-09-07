@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/3893283/45244581-214f8980-b301-11e8-89fb-7db8bbe40fb9.png">
+  <img height="300" src="https://user-images.githubusercontent.com/3893283/45245150-c9fee880-b303-11e8-84eb-b9d3e655c237.png">
 </p>
 
 ### APINIZER is high-performance, low-latency and scalable API Management Platform!
